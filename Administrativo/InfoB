@@ -3,7 +3,9 @@ Grupo Administrativo.
  Regra 1 - Após 24h de inatividade, deve-se solicitar o código de ativação novamente.
  
 2- Como faremos para acessar o menu administrativo, cliente e Movimentação?
-Regras 1 -
+Regra 1 - Após a página inicial do caixa (anúncios, por exemplo), será requerido o número do banco do usuário. Nessa entrada, para acessar o menu, o funcionário deverá digitar um código secreto e padrão.
+Regra 2 - Para acessar a sessão de Administração ou Cliente, o funcionário deverá se autenticar.
+Regra 3 - Não é necessário autenticação para retornar à parte de Movimentação.
 
 3- Como será feita a autenticação na opção administrativo? Será feita por usuário autenticado? Quais os dados de cadastro de desse usuário?
 Regras 1 -
